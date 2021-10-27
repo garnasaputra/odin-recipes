@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, 'Times New Roman', sans-serif;
+}
+#heading {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.picture {
+    height: auto;
+    width: 500px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.link {
+    background-color: lightsalmon;
+}
